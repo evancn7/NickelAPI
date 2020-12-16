@@ -7,7 +7,8 @@
          "cals":52,
          "protein":0.3,
          "fat":0.2,
-         "carbon":4
+         "carbon":4,
+         "qty":1
       },
       {
          "foodID":2,
@@ -16,7 +17,8 @@
          "cals":239,
          "protein":27,
          "fat":14,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
       {
          "foodID":3,
@@ -25,7 +27,8 @@
          "cals":47,
          "protein":0.9,
          "fat":0.1,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
       {
          "foodID":4,
@@ -34,7 +37,8 @@
          "cals":346,
          "protein":14,
          "fat":31,
-         "carbon":8
+         "carbon":8,
+         "qty":1
       },
       {
          "foodID":5,
@@ -43,7 +47,8 @@
          "cals":208,
          "protein":20,
          "fat":13,
-         "carbon":5
+         "carbon":5,
+         "qty":1
       },
       {
          "foodID":6,
@@ -52,7 +57,8 @@
          "cals":42,
          "protein":3.4,
          "fat":1,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
       {
          "foodID":7,
@@ -61,7 +67,8 @@
          "cals":155,
          "protein":13,
          "fat":11,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
       {
          "foodID":8,
@@ -70,7 +77,8 @@
          "cals":717,
          "protein":0.9,
          "fat":81,
-         "carbon":6
+         "carbon":6,
+         "qty":1
       },
       {
          "foodID":9,
@@ -79,7 +87,8 @@
          "cals":242,
          "protein":27,
          "fat":14,
-         "carbon":8
+         "carbon":8,
+         "qty":1
       },
       {
          "foodID":10,
@@ -88,7 +97,8 @@
          "cals":139,
          "protein":0,
          "fat":0,
-         "carbon":8
+         "carbon":8,
+         "qty":1
       },
       {
          "foodID":11,
@@ -97,7 +107,8 @@
          "cals":160,
          "protein":2,
          "fat":15,
-         "carbon":10
+         "carbon":10,
+         "qty":1
       },
       {
          "foodID":12,
@@ -106,7 +117,8 @@
          "cals":2120,
          "protein":69.6,
          "fat":11.12,
-         "carbon":4
+         "carbon":4,
+         "qty":1
       },
 
       {
@@ -116,7 +128,8 @@
          "cals":408,
          "protein":40.0,
          "fat":28.0,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
 
       {
@@ -126,7 +139,8 @@
          "cals":210.0,
          "protein":42.0,
          "fat":0.20,
-         "carbon":4
+         "carbon":4,
+         "qty":1
       },
 
       {
@@ -136,7 +150,8 @@
          "cals":77.0,
          "protein":2.0,
          "fat":0.1,
-         "carbon":5
+         "carbon":5,
+         "qty":1
       },
 
       {
@@ -146,7 +161,8 @@
          "cals":130.0,
          "protein":2.7,
          "fat":0.3,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
 
       {
@@ -156,7 +172,8 @@
          "cals":5.0,
          "protein":5.0,
          "fat":1.0,
-         "carbon":3
+         "carbon":3,
+         "qty":1
       },
 
       {
@@ -166,7 +183,8 @@
          "cals":1240,
          "protein":52.0,
          "fat":60.0,
-         "carbon":7
+         "carbon":7,
+         "qty":1
       },
 
       {
@@ -176,7 +194,8 @@
          "cals":435.0,
          "protein":1.2,
          "fat":0.12,
-         "carbon": 8
+         "carbon": 8,
+         "qty":1
       },
 
       {
@@ -186,7 +205,8 @@
          "cals":541,
          "protein":37.0,
          "fat":42.0,
-         "carbon":9
+         "carbon":9,
+         "qty":1
       }
    ]
 }
