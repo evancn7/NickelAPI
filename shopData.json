@@ -120,7 +120,6 @@
          "carbon":4,
          "qty":1
       },
-
       {
          "foodID":13,
          "name":"beef",
@@ -131,7 +130,6 @@
          "carbon":7,
          "qty":1
       },
-
       {
          "foodID":14,
          "name":"cod",
@@ -142,7 +140,6 @@
          "carbon":4,
          "qty":1
       },
-
       {
          "foodID":15,
          "name":"potatoes",
@@ -153,7 +150,6 @@
          "carbon":5,
          "qty":1
       },
-
       {
          "foodID":16,
          "name":"rice",
@@ -164,7 +160,6 @@
          "carbon":7,
          "qty":1
       },
-
       {
          "foodID":17,
          "name":"pasta",
@@ -175,7 +170,6 @@
          "carbon":3,
          "qty":1
       },
-
       {
          "foodID":18,
          "name":"pizza ham & pineapple",
@@ -186,7 +180,6 @@
          "carbon":7,
          "qty":1
       },
-
       {
          "foodID":19,
          "name":"tomato ketchup",
@@ -197,7 +190,6 @@
          "carbon": 8,
          "qty":1
       },
-
       {
          "foodID":20,
          "name":"bacon",
@@ -206,6 +198,16 @@
          "protein":37.0,
          "fat":42.0,
          "carbon":9,
+         "qty":1
+      },
+      {
+         "foodID":21,
+         "name":"Guinness",
+         "weight": 100,
+         "cals":125,
+         "protein":1.0,
+         "fat":0.0,
+         "carbon":5,
          "qty":1
       }
    ]
