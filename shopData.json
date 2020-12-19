@@ -203,10 +203,10 @@
       {
          "foodID":21,
          "name":"Guinness",
-         "weight": 100,
-         "cals":125,
-         "protein":1.0,
-         "fat":0.0,
+         "weight": 568,
+         "cals":210,
+         "protein":1.9,
+         "fat":0.3,
          "carbon":5,
          "qty":1
       }
